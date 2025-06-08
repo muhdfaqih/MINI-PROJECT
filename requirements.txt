@@ -1,8 +1,0 @@
-streamlit
-pandas
-seaborn
-plotly.express
-matplotlib
-numpy
-plotly.graph_objects
-plotly.subplots
